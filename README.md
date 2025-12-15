@@ -17,14 +17,3 @@ Ushauri wa kiteknolojia kwa watu binafsi na biashara ndogo
 
 Ninafanya kazi kwa ubunifu, uaminifu na ufanisi, nikihakikisha mteja anapata suluhisho linalokidhi mahitaji yake kwa wakati. Lengo langu ni kusaidia watu na biashara kujiimarisha kidijitali kupitia teknolojia.
 
-
--
-
-Kukupunguzia zaidi (paragraph 1 tu)
-
-Kukutengenezea About Me page kamili
-
-Kukuandikia Services section + Skills + Contact
-
-
-Nisemee tu unataka ipi 🔥
