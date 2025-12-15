@@ -1,6 +1,4 @@
-
-
-Extended Description
+kazi na 
 
 Mimi ni mtaalamu wa IT na Web Developer mwenye ujuzi wa kutengeneza na kusimamia tovuti za kisasa zinazofanya kazi vizuri kwenye Chrome na browsers zote. Nina uzoefu wa kutumia HTML, CSS, na JavaScript katika kuunda tovuti zenye muonekano mzuri na utendaji wa haraka.
 
